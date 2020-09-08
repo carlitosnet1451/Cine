@@ -28,7 +28,7 @@ import org.json.JSONObject;
  * Creado el 08-09-2020 a las 11:17:00
  */
 public class Themoviedb {
- String api_key="a23830eeee050b76a82f6377269bf8c8";
+ String api_key="INGRESE SU API KEY";
  String idioma="es-MX";
   private static String readAll(Reader rd) throws IOException {
     StringBuilder sb = new StringBuilder();
